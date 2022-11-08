@@ -1,0 +1,42 @@
+a.chat-profile-icon img {
+    width: 36px;
+    height: 36px;
+    border-radius: 36px;
+}
+.chat-menus {
+    margin-left: 0px;
+}
+.dropdown-menu.dropdown-menu-end {
+    position: absolute;
+    inset: auto auto 0px 0px;
+    margin: 0px;
+    transform: translate(42px, -59px);
+    left: 51px;
+}
+.mt-1 {
+    text-align: left;
+}
+.hide{
+    display: none;
+}
+.show {
+    display: block;
+}
+.dropdown-menu .dropdown-item {
+    margin: 8px 0;
+    position: relative;
+}
+.dropdown-menu .dropdown-item {
+    font-size: 14px;
+    cursor: pointer;
+    padding: 2px 14px;
+    font-weight: 500;
+    color: #232323;
+    width: 82%;
+    float: left;
+    text-align: left;
+}
+.dropdown-menu i, .dropdown-menu span.material-icons {
+    position: relative;
+    right: 0px;
+}

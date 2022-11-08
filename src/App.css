@@ -1,0 +1,102 @@
+.bottom-end.show {
+  position: absolute;
+  inset: 0px 0px auto auto !important; 
+  margin: 0px !important;
+  transform: translate(-15px, 56px) !important;
+}
+.right_sidebar_profile.false {
+  display: none;
+}
+div.chat#middle {
+  background: url(https://doot-light.react.themesbrand.com/static/media/pattern-05.ffd181cd.png);
+  transition: all .4s;
+  position: relative;
+  background-color: #f2f2f2;
+}
+.settings-main {
+  background: #fff !important;
+}
+.settings-delete.mt-4 {
+  width: 98%;
+}
+.btn-delete {
+  background: #d90429;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+}
+.chat .chat-header .chat-options ul{
+  display: block;
+  width: 100%;
+}
+.load-more-btn {
+  font-weight: 600 !important;
+  margin-top: 10px !important;
+  width: 100% !important;
+  background: #fff !important;
+  color: var(--bs-link-color) !important;
+}
+.report-col ul li {
+  width: auto !important;
+}
+.load-more-btn i {
+  
+  margin-left: 10px;
+}
+
+.about-media-tabs ul.nav-tabs {
+  display: flex !important;
+  width: 59% !important;
+  margin-bottom: 0;
+  display: -webkit-flex;
+  align-items: center !important;
+  -webkit-align-items: center !important;
+  margin: 0px auto;
+}
+.report-col ul li a {
+  color: #FF0000 !important;
+  padding-left: 25px !important;
+  width: auto !important;
+  background: #fff !important;
+  text-align: left;
+  display: block !important;
+    height: 18px !important;
+
+}
+.btn-delete:hover {
+  background: #14213d;
+  color: #fff;
+}
+.btn-update:hover {
+  background: #00b4d8;
+  color: #fff;
+}
+.btn-update {
+  background: #00b4d8;
+  color: #fff;
+  font-weight: 500;
+  padding: 7px 12px;
+}
+.settings-col ul li {
+  color: #939393;
+  font-weight: 500;
+  width: auto !important;
+}
+.social-media-col ul li a {
+  color: #420BA1 !important;
+  font-size: 18px !important;
+  background: #fff !important;
+}
+.cancel-btn a {
+  background: #2b2d42;
+  font-weight: 500;
+  color: #fff;
+  padding: 10px 35px;
+  border-radius: 8px;
+  line-height: 28px;
+}
+body .social-media-col ul li {
+  float: left;
+  width: 10px !important;
+  margin-right: 12px !important;
+}
